@@ -1,2 +1,6 @@
-#This folder contains the codes used for the study
+This folder contains the codes used for the study
+
+VIF_code -> code for the application of the Variance Inflation Factor
+RF_code -> the code used for the RF models computation 
+
 
